@@ -1,0 +1,15 @@
+{
+  "name": "cookievalue",
+  "version": "1.0.1",
+  "description": "A package which help to get cookie value",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aman Pareek",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Amanp30/cookievalue"
+  },
+  "license": "ISC"
+}
